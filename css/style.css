@@ -1,1 +1,10 @@
 body { background: #cacaca; }
+.header { background: #262626; height: 170px; width: 100%; margin-top: 0; }
+.header img { margin: 10px 0 0 10px; }
+
+.navigation ul { height: 30px; }
+.navigation li { margin-right: 10px; float: left; display: inline; list-style: none; margin-top: 90%; }
+.navigation a { color: #5b82bc; }
+.navigation a:hover { text-decoration: none; color: #264879; }
+
+.wrapper { width: 1000px; margin: 0 auto 0 auto; }
